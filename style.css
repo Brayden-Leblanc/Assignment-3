@@ -13,17 +13,24 @@
 
 @keyframes gradient {
     0% {
-        background-position: 0% 50%;
+    background-position: 0% 50%;
     }
     50% {
-        background-position: 100% 50%;
+    background-position: 100% 50%;
     }
     100% {
-        background-position: 0% 50%;
+    background-position: 0% 50%;
     }
 }
 
 #career {
+  color: whitesmoke;
+  text-shadow: 2px 2px 4px black;
+  text-align: center;
+  font-size: 400%;
+}
+
+#career1 {
   color: whitesmoke;
   text-shadow: 2px 2px 4px black;
   text-align: center;
